@@ -1,0 +1,2 @@
+Ýstemci sunucuya double tipinde bir deðer gönderir ve sunucu da istemcinin gönderdiði
+deðerin karesini alýp istemciye tekrar göndersin
